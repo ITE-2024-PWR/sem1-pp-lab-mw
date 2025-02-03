@@ -2,4 +2,4 @@
 
 Informatyka techniczna, semestr 1, zima 2024
 
-## Grupa [dr inż. Romana Ptaka](http://roman.ptak.staff.iiar.pwr.wroc.pl)
+## Prowadzący [dr inż. Roman Ptak](http://roman.ptak.staff.iiar.pwr.wroc.pl)
